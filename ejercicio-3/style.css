@@ -1,0 +1,21 @@
+#contenedor {
+    text-align: center;
+  }
+  
+  #calculadora {
+    display: inline-block;
+    margin-top: 20px;
+  }
+  
+  input[type="number"] {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  p#resultado {
+    font-weight: bold;
+  }
+  
